@@ -1,0 +1,8 @@
+**__pycache__**
+.env
+llama/llama-2-7b/
+llama/llama-2-7b-chat/
+llama/tokenizer.model
+llama/tokenizer_checklist.chk
+data/
+pretrained/
